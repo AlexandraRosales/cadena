@@ -1,0 +1,24 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int x;
+    
+    cout<<"Ingrese el caracter:";
+    cin>>x;
+    
+    
+    for( int i=0;i<x;i++){
+        
+        
+        
+    }
+if (x>30){
+    cout<<"la cantidad de elementos son:"<<endl;
+    cout<<x;
+}
+if(x>=30)
+cout<<"la cadena no debe pasar los 30 caracteres"<<endl;
+}
